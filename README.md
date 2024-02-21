@@ -6,7 +6,7 @@
 </h3>
 
 
-- I’m currently learning Machine Learningand Data Science 
+- I’m currently learning Machine Learning and Data Science 
 - Ask me about my experience with python , libraries(numpy,pands,matplotlib)
   
 

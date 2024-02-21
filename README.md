@@ -6,9 +6,9 @@
 </h3>
 
 
--  I’m currently learning Machine Learningand Data Science 
-- As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
--  Ask me about my experience with python , libraries(numpy,pands,matplotlib,seaborn)
+- I’m currently learning Machine Learningand Data Science 
+- Ask me about my experience with python , libraries(numpy,pands,matplotlib)
+  
 
 
 
